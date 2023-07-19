@@ -1,0 +1,4 @@
+whois target.com                      //  WHOIS command - query information about a company - Mailing address, phone number, email address
+nslookup target.com                   //  Reverse WHOIS search find domains that belong to the same owner, internal domains 
+https://viewdns.info/reversewhois/    //  Use this site
+
