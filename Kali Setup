@@ -6,13 +6,13 @@ sudo apt dist-upgrade -y
 Open BurpSuite
 add extension - Autorize 
 download Jypton
-add download to python enviroment 
+add download to python environment 
 install Autorize 
 
-Install FoxyProxy in FireFox
+Install FoxyProxy in Firefox
 add BurpSuite 127.0.0.1 port 8080
 add Postman   127.0.0.1 port 5555
-Download CA certifcate 
+Download CA certificate 
 
 Open Terminal
 install Postman
